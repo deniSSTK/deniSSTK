@@ -80,11 +80,11 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=payment-system&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Payment System" />
     </picture>
   </a>
-  <a href="https://github.com/deniSSTK/chat-gpt-clone">
+  <a href="https://github.com/deniSSTK/contracts-manager">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=chat-gpt-clone&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=chat-gpt-clone&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=chat-gpt-clone&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="ChatGPT Clone" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=contracts-manager&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=contracts-manager&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=contracts-manager&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Contracts Manager" />
     </picture>
   </a>
 </div>
