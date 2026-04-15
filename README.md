@@ -41,7 +41,11 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=D0DFF7&color=D0DFF7&line=D0DFF7&point=E1D8F0&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=D0DFF7&color=D0DFF7&line=D0DFF7&point=E1D8F0&hide_border=true&custom_title=Contribution%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=37352F&color=37352F&line=37352F&point=D0DFF7&hide_border=true&custom_title=Contribution%20Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=D0DFF7&color=D0DFF7&line=D0DFF7&point=E1D8F0&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  </picture>
 </p>
 
 <h3>Featured Projects</h3>
