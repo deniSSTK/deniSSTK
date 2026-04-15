@@ -5,7 +5,6 @@
 <div align="center">
 
 <div align="center">
-  <br />
   <h3>About Me</h3>
   <table border="0" cellpadding="0" cellspacing="0">
     <tr style="border: none;">
@@ -18,9 +17,9 @@
       </td>
       <td width="50%" align="center" style="border: none;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=D0DFF7&text_color=E1D8F0&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=37352F&text_color=37352F&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=D0DFF7&text_color=E1D8F0&hide_border=true" height="160px" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=000000&text_color=000000&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" height="160px" />
         </picture>
       </td>
     </tr>
@@ -47,9 +46,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=D0DFF7&color=D0DFF7&line=D0DFF7&point=E1D8F0&hide_border=true&custom_title=Contribution%20Graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=37352F&color=37352F&line=37352F&point=D0DFF7&hide_border=true&custom_title=Contribution%20Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=D0DFF7&color=D0DFF7&line=D0DFF7&point=E1D8F0&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=FFFFFF&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=000000&color=000000&line=000000&point=000000&hide_border=true&custom_title=Contribution%20Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=FFFFFF&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
   </picture>
 </p>
 
