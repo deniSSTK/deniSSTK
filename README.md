@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h2>👨‍💻 About Me</h2>
+<h2>About Me</h2>
 
 <b>Fullstack Developer (Backend-focused)</b>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<h2>🧠 Core Stack</h2>
+<h2>Core Stack</h2>
 
 <img src="https://skillicons.dev/icons?i=go,typescript,nestjs,angular,vue,postgres,redis,kafka&theme=dark" />
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<h2>⚙️ Tools & DevOps</h2>
+<h2>Tools & DevOps</h2>
 
 <img src="https://skillicons.dev/icons?i=git,docker,nginx,kubernetes,apple,postman,github,webstorm,idea&theme=dark" />
 
@@ -32,7 +32,11 @@
 
 <div align="center">
 
-<h2>🚀 Featured Projects</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=D0DFF7&color=D0DFF7&line=D0DFF7&point=E1D8F0&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+</p>
+
+<h2>Featured Projects</h2>
 
 <a href="https://github.com/deniSSTK/task-engine">task-engine</a> - Microservices & high-performance task CRM <br/>
 <a href="https://github.com/deniSSTK/social">social</a> - Full-stack social network, Facebook clone <br/>
@@ -43,7 +47,7 @@
 
 <div align="center">
 
-<h2>📫 Contact Me</h2>
+<h2>Contact Me</h2>
 
 <a href="https://www.linkedin.com/in/denis-tkachenko-b7a801327/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
