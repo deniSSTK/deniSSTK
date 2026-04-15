@@ -5,18 +5,23 @@
 <div align="center">
 
 <div align="center">
-  <h3 style="border-bottom: none;">About Me</h3>
-  <table border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-    <tr>
-      <td width="50%" align="left" style="border:none;">
+  <br />
+  <h3>About Me</h3>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr style="border: none;">
+      <td width="50%" align="left" style="border: none;">
         <p><b>Backend-focused Fullstack Developer</b></p>
         <img src="https://img.shields.io/badge/Experience-2%2B%20Years-D0DFF7?style=flat-square&logoColor=37352F" /> <br/>
         <img src="https://img.shields.io/badge/Focus-High--Performance%20Apps-E1D8F0?style=flat-square&logoColor=37352F" /> <br/>
         <img src="https://img.shields.io/badge/Specialty-Production%20APIs-D0DFF7?style=flat-square&logoColor=37352F" /> <br/>
         <img src="https://img.shields.io/badge/Systems-Real--time-E1D8F0?style=flat-square&logoColor=37352F" />
       </td>
-      <td width="50%" align="center" style="border:none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=D0DFF7&text_color=E1D8F0&hide_border=true" height="160px" />
+      <td width="50%" align="center" style="border: none;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=D0DFF7&text_color=E1D8F0&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=37352F&text_color=37352F&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=D0DFF7&text_color=E1D8F0&hide_border=true" height="160px" />
+        </picture>
       </td>
     </tr>
   </table>
