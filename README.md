@@ -44,11 +44,13 @@
 
 <div align="center">
 
+<h3 align="center">Contribution Graph</h3>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=FFFFFF&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=000000&color=000000&line=000000&point=000000&hide_border=true&custom_title=Contribution%20Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=FFFFFF&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=FFFFFF&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&hide_title=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=000000&color=000000&line=000000&point=000000&hide_border=true&hide_title=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=deniSSTK&bg_color=00000000&title_color=FFFFFF&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&hide_title=true" width="100%" />
   </picture>
 </p>
 
