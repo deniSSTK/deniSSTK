@@ -24,6 +24,9 @@
       </td>
     </tr>
   </table>
+  <a href="https://github.com/deniSSTK/deniSSTK/raw/main/CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-37352F?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </div>
 
 <div align="center">
