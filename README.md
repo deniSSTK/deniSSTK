@@ -52,12 +52,42 @@
   </picture>
 </p>
 
-<h3>Featured Projects</h3>
+<div align="center">
+  <br />
+  <h3>Featured Projects</h3>
+  
+  <a href="https://github.com/deniSSTK/task-engine">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=task-engine&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=task-engine&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=task-engine&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Task Engine" />
+    </picture>
+  </a>
+  <a href="https://github.com/deniSSTK/social">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=social&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=social&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=social&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Social App" />
+    </picture>
+  </a>
 
-<a href="https://github.com/deniSSTK/task-engine">task-engine</a> - Microservices & high-performance task CRM <br/>
-<a href="https://github.com/deniSSTK/social">social</a> - Full-stack social network, Facebook clone <br/>
-<a href="https://github.com/deniSSTK/payment-system">payment-system</a> - Simple NestJS payment system <br/>
-<a href="https://github.com/deniSSTK/chat-gpt-clone">chat-gpt-clone</a> - Fullstack ChatGPT clone
+  <br />
+
+  <a href="https://github.com/deniSSTK/payment-system">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=payment-system&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=payment-system&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=payment-system&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Payment System" />
+    </picture>
+  </a>
+  <a href="https://github.com/deniSSTK/chat-gpt-clone">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=chat-gpt-clone&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=chat-gpt-clone&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=chat-gpt-clone&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="ChatGPT Clone" />
+    </picture>
+  </a>
+</div>
 
 </div>
 
