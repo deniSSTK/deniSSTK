@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Developer;High-Performance+Systems+%26+Microservices;Go+%26+TypeScript;Architecting+for+Scalability" />
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:D0DFF7,100:E1D8F0&text=Fullstack%20Developer&section=header&reversal=false&textBg=false&fontColor=37352F&fontAlign=50&animation=fadeIn&strokeWidth=0&desc=High-Performance%20Systems%20and%20Microservices&stroke=0"/>
 </p>
 
 <div align="center">
