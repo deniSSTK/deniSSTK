@@ -12,6 +12,9 @@
         <p><b>Backend-focused Fullstack Developer</b></p>
         <img src="https://img.shields.io/badge/Experience-2%2B%20Years-D0DFF7?style=flat-square&logoColor=37352F" /> <br/>
         <img src="https://img.shields.io/badge/Focus-High--Performance%20Apps-E1D8F0?style=flat-square&logoColor=37352F" /> <br/>
+        <a href="https://github.com/deniSSTK/task-engine" target="_blank">
+            <img src="https://img.shields.io/badge/Current_Project-Task_Engine-D0DFF7?style=flat-square&logo=go&logoColor=37352F" />
+        <a/>
         <img src="https://img.shields.io/badge/Specialty-Production%20APIs-D0DFF7?style=flat-square&logoColor=37352F" /> <br/>
         <img src="https://img.shields.io/badge/Systems-Real--time-E1D8F0?style=flat-square&logoColor=37352F" />
       </td>
