@@ -19,12 +19,14 @@
         <img src="https://img.shields.io/badge/Systems-Real--time-E1D8F0?style=flat-square&logoColor=37352F" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=000000&text_color=000000&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" height="160px" />
-        </picture>
-      </td>
+  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=000000&text_color=000000&hide_border=true">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deniSSTK&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" height="160px" alt="deniSSTK's Top Languages" />
+    </picture>
+  </a>
+</td>
     </tr>
   </table>
   <a href="https://github.com/deniSSTK/deniSSTK/raw/main/CV.pdf" target="_blank">
