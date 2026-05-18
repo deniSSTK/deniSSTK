@@ -69,18 +69,18 @@
       <td>
         <a href="https://github.com/deniSSTK/task-engine" target="_blank">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=task-engine&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=task-engine&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=task-engine&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Task Engine" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=task-engine&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=task-engine&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=task-engine&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Task Engine" />
           </picture>
         </a>
       </td>
       <td>
         <a href="https://github.com/deniSSTK/contracts-manager" target="_blank">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=contracts-manager&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=contracts-manager&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=contracts-manager&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Contracts Manager" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=contracts-manager&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=contracts-manager&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=contracts-manager&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Contracts Manager" />
           </picture>
         </a>
       </td>
@@ -89,18 +89,18 @@
       <td>
         <a href="https://github.com/deniSSTK/payment-system" target="_blank">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=payment-system&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=payment-system&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=payment-system&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Payment System" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=payment-system&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=payment-system&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=payment-system&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Payment System" />
           </picture>
         </a>
       </td>
       <td>
         <a href="https://github.com/deniSSTK/social" target="_blank">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=social&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=social&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=deniSSTK&repo=social&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Social App" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=social&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=social&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&hide_border=true">
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=deniSSTK&repo=social&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Social App" />
           </picture>
         </a>
       </td>
